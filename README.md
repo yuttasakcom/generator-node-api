@@ -1,31 +1,31 @@
 # generator-sendit-th-generator-koa-api [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> 
+
+>
 
 ## Installation
 
 First, install [Yeoman](http://yeoman.io) and generator-sendit-th-generator-koa-api using [npm](https://www.npmjs.com/) (we assume you have pre-installed [node.js](https://nodejs.org/)).
 
 ```bash
-npm install -g yo @sendit-th/generator-node-api
+npm install -g yo @sendit-th/generator-node-api --unsafe-perm=true --allow-root
 ```
 
 Then generate your new project:
 
 ```bash
-yo @sendit-th/node-api 
+yo @sendit-th/node-api
 ```
 
 ## Getting To Know Yeoman
 
- * Yeoman has a heart of gold.
- * Yeoman is a person with feelings and opinions, but is very easy to work with.
- * Yeoman can be too opinionated at times but is easily convinced not to be.
- * Feel free to [learn more about Yeoman](http://yeoman.io/).
+- Yeoman has a heart of gold.
+- Yeoman is a person with feelings and opinions, but is very easy to work with.
+- Yeoman can be too opinionated at times but is easily convinced not to be.
+- Feel free to [learn more about Yeoman](http://yeoman.io/).
 
 ## License
 
 MIT © [NV4RE]()
-
 
 [npm-image]: https://badge.fury.io/js/generator-sendit-th-generator-koa-api.svg
 [npm-url]: https://npmjs.org/package/generator-sendit-th-generator-koa-api
